@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1, 
+        "nombre": "Santiago"
+    },
+    {
+        "id": 2,
+        "nombre": "Concepcion"
+    },
+    {
+        "id": 3,
+        "nombre": "Temuco"
+    },
+    {
+        "id": 4,
+        "nombre": "Valparaiso"
+    },
+    {
+        "id": 5,
+        "nombre": "Rancagua"
+    }
+]
